@@ -14,7 +14,7 @@ function homeBasket(){
 }
 
 function homeThree(){
-    homePoints += 4
+    homePoints += 3
     homeScore.innerText = homePoints
 }
 
